@@ -1,4 +1,4 @@
-array = [10,2,3,4,-5,6,0,12,-9]
+array = [10,2,3,4,-5,6,0,12,-9,50]
 
 # Whole array
 print(array)
@@ -12,7 +12,7 @@ print(array[1:4])
 # 2nd to 7 no
 print(array[2:7])
 
-# return all excep last 2
+# return all except last 2
 print(array[:-2])
 
 # starting from index 2 to all
